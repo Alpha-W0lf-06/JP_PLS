@@ -666,17 +666,17 @@
             new string[] { "everyone; all", "[affirmation/informal] yes", "Good day.", "female", "(not) at all", "manga comics" },
             // 濁音 (Dakuon - Voiced sounds)
             // が行 (Ga-row)
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
+            new string[] { "[particle indicating subject] This is good", "[clause particle] Excuse me...", "persevere, keep at it", "foreigner", "become disappointed", "endure" },
+            new string[] { "bank", "key, lock", "rice ball", "obligation", "just barely", "limit" },
+            new string[] { "condition", "idle complaint; grumble", "act tardily, hesitantly", "strike; hit", "by chance", "about, approximately (in quantity)" },
+            new string[] { "vigorous, healthy", "entry hall", "diarrhea", "end of month", "language", "cause" },
+            new string[] { "cooked rice; meal", "trash, dust", "It was delicious. (Thank you.)", "we have it.", "sesame", "[approximate point in time] about" },
             // ざ行 (Za-row)
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
+            new string[] { "flat floor cushion", "regrettable", "magazine", "sieve; bamboo strainer", "formal tatami room", "annoying [colloquial]" },
+            new string[] { "time", "self", "accident", "earthquake", "bicycle", "selfish, self-centered [colloquial]" },
+            new string[] { "sly; cunning", "awfully, very", "all the way, by far", "slip off", "move; put off", "trousers" },
+            new string[] { "all; the whole thing", "wind, breeze, cold [illness]", "mix, stir, blend", "by all means", "absoutely", "whole; entireety" },
+            new string[] { "please (speaker offering something)", "elephant", "know [honorific]", "zori (japanese sandals)", "belong; be affiliated with", "shiver; feeling chilly" },
             // だ行 (Da-row)
             new string[] { "", "", "", "", "", "" },
             new string[] { "", "", "", "", "", "" },
