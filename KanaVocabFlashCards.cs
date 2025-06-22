@@ -645,15 +645,15 @@
             new string[] { "room", "unskillful; poor at", "decrease", "Please, this way.", "Where to?", "to everyone" },
             new string[] { "truth", "want; in need of", "mostly", "broom", "dust", "spinach" },
             // ま行 (Ma-row)
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
+            new string[] { "front; before", "[+negative] not yet, [+affirmation] still", "straight", "mimicry; pretense", "sleeping pillow", "diligent; serious" },
+            new string[] { "green", "mandarin orange", "[polite] everyone", "right; right-hand side", "ear", "miso soup" },
+            new string[] { "unreasonable; impossible", "daugther", "rice ball", "over there", "difficult", "humid; sultry" },
+            new string[] { "eye", "cooked rice; meal", "noodles; mask", "eyeglasses", "troublesome,bothersome", "Congratulation!" },
+            new string[] { "thing", "already, yet, no more", "if", "receive", "more", "popular" },
             // や行 (Ya-row)
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
-            new string[] { "", "", "", "", "", "" },
+            new string[] { "do; give", "easy; kind", "yakitori (chicken dish)", "vacation, break, closed for business", "quit, stop", "noisy, annoying" },
+            new string[] { "hot water, bath", "snow", "dream", "mail; postal service", "slowly, leisurely", "japanese citron; yuzu" },
+            new string[] { "often, well, a lot", "side horizontal", "read", "night", "Best regards, Thank you in advance", "was good, Great!" },
             // ら行 (Ra-row) - Contribution by JustJaime
             new string[] { "that way; over there", "cherry blossom", "Welcome!", "apparently", "comfortable; easy; relaxing", "next year" },
             new string[] { "apple", "spendid; eminent", "need", "understanding", "divorce", "reason" },
